@@ -1,0 +1,1 @@
+# flutter-object-detection-app
